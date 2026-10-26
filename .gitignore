@@ -1,11 +1,6 @@
+data/raw/
+results/
+figures/*.png
 __pycache__/
 *.pyc
 .venv/
-venv/
-env/
-.env
-.ipynb_checkpoints/
-.vscode/
-node_modules/
-dist/
-build/
